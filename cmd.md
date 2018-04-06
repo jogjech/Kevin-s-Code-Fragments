@@ -2,3 +2,4 @@
   ```Shell
   grep -R --include=*.css -H pattern .
   ```
+* http://teohm.com/blog/shortcuts-to-move-faster-in-bash-command-line/
